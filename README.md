@@ -4,7 +4,7 @@ Aquest cub de LEDs Neopixels permeten fer un element decoratiu i a la vegada una
 <img src="Imatges/Cube2.jpg" width="150" />      
 
 Es una adaptació realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
-del disseny 
+del disseny  https://github.com/hpsaturn/cube_led_8x8x6_ws2812 
 
 La documentació està disponible [en PDF](https://github.com/maynej/Cube-Neopixel/tree/main/Doc/). També en castellà.
 
