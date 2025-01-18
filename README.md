@@ -13,9 +13,9 @@ La documentació està disponible [en PDF](https://github.com/maynej/Cube-Neopix
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
 Estructura |![](Imatges/CubeBody.png) | [Estructura](STL/cube_body.stl)
-Tapa |![](Imatges/Tapa.png) | [Tapa](STL/Cube_Cap2.stl)
+Tapa |![](Imatges/CubeCap2.png) | [Tapa](STL/Cube_Cap2.stl)
 Base |![](Imatges/Base.png) | [Base](STL/Cube_Base2.stl)
-Tapa Base |![](Imatges/TapaBase.png) | [Tapa Base](STL/cube_base_lid.stl)
+Tapa Base |![](Imatges/BaseLID.png) | [Tapa Base](STL/cube_base_lid.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
