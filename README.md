@@ -12,12 +12,12 @@ La documentació està disponible [en PDF](https://github.com/maynej/Cube-Neopix
   
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
-Estructura |![](Imatges/CubeBody.png) | [Estructura](STL/cube_body.stl)
-Tapa |![](Imatges/CubeCap2.png) | [Tapa](STL/Cube_Cap2.stl)
+Estructura |![](Imatges/Cube_Body.png) | [Estructura](STL/cube_body.stl)
+Tapa |![](Imatges/Cube_Cap2.png) | [Tapa](STL/Cube_Cap2.stl)
 Base |![](Imatges/Base.png) | [Base](STL/Cube_Base2.stl)
 Tapa Base |![](Imatges/BaseLID.png) | [Tapa Base](STL/cube_base_lid.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
-<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FUlleres-de-colors&s=6&e=m"/>
+<img src="Imatges/qrcode.png" width="150" /> 
