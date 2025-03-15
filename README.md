@@ -15,7 +15,7 @@ Descripció         | Imatge          | Arxiu STL
 Estructura |![](Imatges/Cube_Body.png) | [Estructura](STL/cube_body.stl)
 Tapa |![](Imatges/Cube_Cap2.png) | [Tapa](STL/Cube_Cap2.stl)
 Base |![](Imatges/Base.png) | [Base](STL/Base.stl)
-Tapa Base |![](Imatges/BaseLID.png) | [Tapa Base](STL/Tapa.stl)
+Tapa Base |![](Imatges/BaseLID.png) | [Tapa Base](STL/TapaBase.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
